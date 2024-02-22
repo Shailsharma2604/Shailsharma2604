@@ -38,7 +38,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shailsharma2604&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>
 
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Shailsharma2604&theme=radical&no-frame=true&no-bg=true&margin-w=4)
