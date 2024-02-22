@@ -6,13 +6,6 @@
 
 
 
-## Get Connected With Me:
-
-<a href="https://www.linkedin.com/in/shail-sharma-607175250/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
-![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-<br />
 
 ## Languages and Tools:
 
@@ -41,18 +34,23 @@
 
 <br /> 
 <br /> 
+## Get Connected With Me:
+
+<a href="https://www.linkedin.com/in/shail-sharma-607175250/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
+![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+<br />
 
 
 ## Holopin Badges:
 
 <br>
 
-[![An image of @xdfrost's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xdfrost)](https://holopin.io/@xdfrost)
-
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=XDFrost&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XDFrost&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XDFrost&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 
