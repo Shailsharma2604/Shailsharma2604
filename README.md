@@ -30,18 +30,6 @@
 <br />
 
 <br /> 
-<br /> 
-
-## Get Connected With Me:
-
-<a href="https://www.linkedin.com/in/shail-sharma-607175250/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
-![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-<br />
-
-<br>
-
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shailsharma2604&theme=radical&hide_border=true)<br/>
@@ -51,6 +39,16 @@
 
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Shailsharma2604&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</br>
+
+## Get Connected With Me:
+
+<a href="https://www.linkedin.com/in/shail-sharma-607175250/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
+![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+<br />
 
 ---
 
