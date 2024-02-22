@@ -4,14 +4,11 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mail me on shail020604@gmail.com
 
-- 🔭 I build projects in my free time.
-- 🌱 I’m currently a college student.
-- ⚡ I'm currently learning ML.
 
 
 ## Connect with me through:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn]()
 ![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
