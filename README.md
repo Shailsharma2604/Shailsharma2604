@@ -43,8 +43,6 @@
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Shailsharma2604&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-</br>
-
 ## Get Connected With Me:
 
 <a href="https://www.linkedin.com/in/shail-sharma-607175250/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
