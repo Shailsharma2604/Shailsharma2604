@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mail me on shail020604@gmail.com
 
-
-
-
 ## Languages and Tools:
 
 [<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
@@ -42,24 +39,21 @@
 ![twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 <br />
 
-
-## Holopin Badges:
-
 <br>
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XDFrost&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=XDFrost&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shailsharma2604&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 
 ## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=XDFrost&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Shailsharma2604&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=XDFrost&label=Profile%20views&color=0e75b6&style=flat" alt="Pratham Gupta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shailsharma2604&label=Profile%20views&color=0e75b6&style=flat" alt="Shail Sharma" /> </p>
 
 
 [instagram]: https://www.instagram.com/__frostxd/
