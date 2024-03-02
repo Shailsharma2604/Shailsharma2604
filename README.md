@@ -53,6 +53,25 @@
 ![twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 <a href="https://twitter.com/shail020604">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)<a/>
 
+
+[Visual Studio Code]: https://code.visualstudio.com/download
+[Git]: https://git-scm.com/downloads
+[Github]: https://desktop.github.com/
+[Python]: https://www.python.org/downloads/
+[HTML5]: https://en.wikipedia.org/wiki/HTML
+[CSS]: https://en.wikipedia.org/wiki/CSS
+[javascript]: https://en.wikipedia.org/wiki/JavaScript
+[twitch]: https://www.twitch.tv/ig_frostxd
+[cpp]: https://sourceforge.net/projects/orwelldevcpp/
+[sql]: https://dev.mysql.com/doc/
+[docker]: https://docs.docker.com
+[Numpy]: https://numpy.org/doc/
+[Pandas]: https://pandas.pydata.org/docs/
+[Java]: https://docs.oracle.com/en/java/
+[Bootstrap]: https://getbootstrap.com
+[Flask]: https://flask.palletsprojects.com/en/3.0.x/
+[Matplotlib]: https://matplotlib.org
+[scikit-learn]: https://scikit-learn.org/stable/
 <br />
 
 ---
