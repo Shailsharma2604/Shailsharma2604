@@ -52,7 +52,7 @@
 <a href="https://discord.com/users/826749398645604352">![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)<a/>
 ![twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 <a href="https://twitter.com/shail020604">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)<a/>
-
+<a href="https://www.kaggle.com/shail2604">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
 
 [Visual Studio Code]: https://code.visualstudio.com/download
 [Git]: https://git-scm.com/downloads
