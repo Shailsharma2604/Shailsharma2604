@@ -1,4 +1,4 @@
-[- 👋 Hi, I’m @Shailsharma2604
+- 👋 Hi, I’m @Shailsharma2604
 - 👀 I’m interested in projects
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on projects
@@ -78,5 +78,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shailsharma2604&label=Profile%20views&color=0e75b6&style=flat" alt="Shail Sharma" /> </p>
 
-
-](https://github-readme-stats.vercel.app/api?username=XDFrost&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
