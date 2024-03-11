@@ -39,7 +39,6 @@
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=Shailsharma2604&theme=radical&hide_border=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=Shailsharma2604&theme=radical&hide_border=true)<br/>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shailsharma2604&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
