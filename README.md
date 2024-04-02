@@ -55,6 +55,7 @@
 <a href="https://twitter.com/shail020604">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)<a/>
 <a href="https://www.kaggle.com/shail2604">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
 <a href="https://open.spotify.com/user/31aj3pfkjgfocnwidnhs5hepcrfe?si=7lMZtkM2QK6YxtP1QQUJpg">![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
+<a href="https://signal.me/#eu/k97H4FglQMDmaATj3ZgwkIJnDmeUDN4hI3L5gWp06gwYQMHyaCNBhb0SnHLzuuiQ">![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)</a>
 
 [Visual Studio Code]: https://code.visualstudio.com/download
 [Git]: https://git-scm.com/downloads
