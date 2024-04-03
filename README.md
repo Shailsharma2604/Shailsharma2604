@@ -2,7 +2,7 @@
 - 👀 I’m interested in projects
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me mail me on shail020604@gmail.com
+- 📫 Mail me on shail020604@gmail.com
 
 ## Languages and Tools:
 
@@ -40,8 +40,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=Shailsharma2604&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://stats.quine.sh/Shailsharma2604/github?theme=dark)<br/>
-![](https://stats.quine.sh/Shailsharma2604/languages-over-time?theme=dark)
+![](https://stats.quine.sh/Shailsharma2604/github?theme=dark)
 
 
 ## GitHub Trophies:
