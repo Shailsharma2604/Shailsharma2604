@@ -36,6 +36,7 @@
 ## Coding Profile:
 
 <a href="https://www.naukri.com/code360/profile/a6457ca1-4e92-4209-ab7a-91e8f39c7269">![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)<a/>
+<a href="https://www.geeksforgeeks.org/user/shailsharonqw/">![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)<a/>
 <br />
 
 <br />
