@@ -43,6 +43,7 @@
 
 ## Portfolio:
 
+<a href="https://vabisheks.my.canva.site/shail-data-analytics-protfolio">![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)</a>
 <br />
 
 <br />
