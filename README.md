@@ -87,6 +87,7 @@
 [Flask]: https://flask.palletsprojects.com/en/3.0.x/
 [Matplotlib]: https://matplotlib.org
 [scikit-learn]: https://scikit-learn.org/stable/
+[ChatGPT]: https://chatgpt.com/
 <br />
 
 ---
