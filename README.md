@@ -14,7 +14,7 @@
 [<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />][Matplotlib]
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />][Flask]
 [<img align="left" alt="Sklearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />][scikit-learn]
-[<img align="left" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Java]
+[<img align="left" alt="Java" width="100 px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Java]
 [<img align="left" alt="cpp" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />][cpp]
 [<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][javascript]
 <br />
