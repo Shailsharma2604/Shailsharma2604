@@ -8,7 +8,7 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />][Python]
+[<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />][Python]
 [<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />][Pandas]
 [<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />][Numpy]
 [<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />][Matplotlib]
@@ -29,7 +29,7 @@
 
 
 <br />
-
+<br />
 <br />
 
 ## Coding Profile:
