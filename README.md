@@ -50,6 +50,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://stats.quine.sh/Shailsharma2604/github?theme=dark)
 
+## Holopin Trophies:
+
+[![An image of @shail_sharma_2604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shail_sharma_2604)](https://holopin.io/@shail_sharma_2604)
 
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Shailsharma2604&theme=radical&no-frame=true&no-bg=true&margin-w=4)
