@@ -45,7 +45,7 @@
 <a href="https://vabisheks.my.canva.site/shail-data-analytics-protfolio">![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)</a>
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=Shailsharma2604&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://stats.quine.sh/Shailsharma2604/github?theme=dark)
