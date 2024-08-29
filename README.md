@@ -49,6 +49,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com?user=Shailsharma2604&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailsharma2604&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://stats.quine.sh/Shailsharma2604/github?theme=dark)
+[![Shail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shailsharma2604&theme=react-dark)
 
 ## Holopin Trophies:
 
