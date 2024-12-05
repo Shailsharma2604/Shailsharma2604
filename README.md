@@ -1,7 +1,3 @@
-## My_MLH_Swag:
-
-<img src="https://github.com/Shailsharma2604/Shailsharma2604/blob/main/my-swag.png" height=500px />
-
 ## Introducation:
 
 - 👋 Hi, I’m @Shailsharma2604
