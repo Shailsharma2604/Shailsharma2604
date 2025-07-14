@@ -40,6 +40,10 @@
 <a href="https://www.kaggle.com/shail2604">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
 <a href="https://leetcode.com/u/shail020604/">![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)</a>
 
+## Skills:
+
+<a href="https://www.credly.com/users/shail2604">![credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)<a/>
+
 ## Portfolio:
 
 <a href="https://vabisheks.my.canva.site/shail-data-analytics-protfolio">![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)</a>
