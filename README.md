@@ -43,6 +43,7 @@
 ## Skills:
 
 <a href="https://www.credly.com/users/shail2604">![credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)<a/>
+<a href="https://www.coursera.org/learner/shail2604">![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)<a/>
 
 ## Portfolio:
 
